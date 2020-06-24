@@ -3,3 +3,8 @@ persist.vendor.camera.perfcapture=1
 
 # Recovery
 ro.recovery.ui.margin_height=87
+
+# Graphics
+ro.surface_flinger.has_HDR_display=true
+ro.surface_flinger.has_wide_color_display=true
+ro.surface_flinger.wcg_composition_dataspace=143261696
