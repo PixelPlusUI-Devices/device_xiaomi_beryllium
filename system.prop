@@ -1,7 +1,7 @@
 # PPUI
 ro.ppui.device_name=Xiaomi POCO F1
-ro.ppui.version=3.9
-ro.ppui.version_code=Eternal
+ro.ppui.version=3.11
+ro.ppui.version_code=Ignite
 ro.ppui.is_official=true
 ro.ppui.maintainer_name=Prabh
 
